@@ -13,7 +13,7 @@ function writePassword() {
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
 
-// Tester password generator statement
+// Tester password generator statement -
 // function generatePassword() {
 //     var length = 8,
 //         charset = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789",
