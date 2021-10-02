@@ -1,4 +1,4 @@
-# Password-Generator
+# Password Generator
 
 ![Screenshot](hw3-screenshot.PNG)
 
